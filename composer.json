@@ -1,0 +1,17 @@
+{
+    "name": "digital-canvas/tree",
+    "description": "Class for converting adjacency list to nested array.",
+    "type": "library",
+    "require-dev": {
+        "symfony/var-dumper": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan Bernardi",
+            "email": "jon@jonbernardi.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
